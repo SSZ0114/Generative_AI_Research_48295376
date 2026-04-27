@@ -1,0 +1,6 @@
+Project Logbook
+
+This project focuses on managing research data related to Generative AI tools. 
+The repository includes both qualitative and quantitative data, as well as reports and analysis files.
+
+Initial setup has been completed, and team members will collaborate using GitHub features such as branches and pull requests.
